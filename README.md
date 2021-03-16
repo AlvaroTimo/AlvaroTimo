@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=AlvaroTimo.AlvaroTimo)
 
 <!--
 **AlvaroTimo/AlvaroTimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
