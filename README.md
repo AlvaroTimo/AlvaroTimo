@@ -6,10 +6,10 @@
 [![alvarotimo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvaroTimo&bg_color=00000000&text_color=8b949e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=00000000&text_color=8b949e&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&bg_color=00000000&text_color=8b949e&hide_border=true" />
 </a>
 
 
