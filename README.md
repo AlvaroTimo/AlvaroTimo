@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroTimo&show_icons=true&theme=algolia&bg_color=00000000&text_color=8b949e&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroTimo&show_icons=true&theme=algolia&bg_color=00000000&text_color=8b949e&hide_border=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroTimo&theme=nightowl&bg_color=00000000&text_color=8b949e&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTimo&layout=compact&theme=algolia&bg_color=00000000&text_color=8b949e&hide_border=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandoTimo&repo=Frontend-Next&bg_color=00000000&text_color=8b949e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
